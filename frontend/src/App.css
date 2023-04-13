@@ -1,0 +1,40 @@
+.head,.edit,.quiz{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.navbar{
+background-color:aqua;
+
+}
+
+.update{
+  align-items: center;
+  justify-content: center;
+  margin-left: 180px;
+  margin-top: 50px;
+
+}
+
+.card{
+  background-color: rgb(155, 139, 248);
+  width: 800px;
+  height: 300px;
+ display: flex;
+ margin-left: 250px;
+ margin-top: 30px;
+}
+
+.main-head{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.question{
+  font-size: larger;
+
+}
